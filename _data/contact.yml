@@ -1,0 +1,14 @@
+location:
+  address: 126 Wellington Parade, East Melbourne VIC 3002
+  google_maps: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3151.8793109282765!2d144.9858732!3d-37.8162958!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad642ea32b7b13f%3A0x4b3f36ddff556a3d!2sThe%20Grey%20Smith!5e0!3m2!1sen!2sau!4v1664530675517!5m2!1sen!2sau
+  locale: en-AU
+
+socials:
+  - platform: Facebook
+    link: https://www.facebook.com/The-Grey-Smith-232304180454610/
+  - platform: Instagram
+    link: https://www.instagram.com
+  - platform: email
+    link: mailto:example@example.com
+  - platform: phone
+    link: tel:(03) 9999 6999
